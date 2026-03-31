@@ -1,2 +1,1 @@
-total = sum(range(1, 11))
-print(total)
+print(sum(range(1, 11)))
